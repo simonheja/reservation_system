@@ -64,7 +64,7 @@ export default function Home() {
           </a>
         </div>
         <div>
-          <p>I put this here</p>
+          <p>This website will allow users of the library to reserve a spot in the library to work and/or study quietly.</p>
         </div>
       </main>
     </div>
